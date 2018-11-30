@@ -1,0 +1,3 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+A: Git starts to track changes in the directory and files in it. I need it to have a history of changes and flexibility to change and experiment with projects.

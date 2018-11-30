@@ -1,0 +1,28 @@
+Q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+A: Viewing a diff between two versions of a file show differences between them. If previous(older) version was working, then the bug will be only in the difference. Analyzing just the difference save time, because i don't need to search for bug in all the program.
+
+Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+A: Beside seeing the evolution process of the program, i can easily come back to idea changed in the one of the older versions of the program. Implementing new versions, can be easily debuuged using diff between new and some old version. As well it is a good way of backing up and team working.
+
+Q: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+A: Manually creating a commit, lets to use human intelligence to recognize the logical difference made to the program. Helps to adjust the difference in two commits not being to small or too big, like it could be during automatic commits. Cons, could be version being lost, when not automatically saved and other human related errors.
+
+Q: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+A: Git is code related version control system, where change in one file can affect the functioning in the other. Google Docs, which is for documents is not that tightly related.
+
+Q: How can you use the commands git log and git diff to view the history of files?
+
+A: Using git log i can view the history of the commits. So i can see how program evolves and changes, reading descriptions of the commits.
+By using git diff first_commit_id next_commit_id i can compare to commits and see the changes in the program.
+
+Q: How might using version control make you more confident to make changes that could break something?
+
+A: Because i can easily come back to the working version of a program, i don't need to worry about making changes to it. It gives me confidence to code and be productive.
+
+Q: Now that you have your workspace set up, what do you want to try using Git for?
+
+A: To write my own project. Releasing my indeas and creativity to helo humanity be better :)
