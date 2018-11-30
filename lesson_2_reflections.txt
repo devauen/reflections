@@ -1,3 +1,7 @@
 Q: What happens when you initialize a repository? Why do you need to do it?
 
 A: Git starts to track changes in the directory and files in it. I need it to have a history of changes and flexibility to change and experiment with projects.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A: Staging area is the middle layer, that helps to preper to a next commit and it is a subset of the Working Directory. We can easily see how changes to a new commit looks like and adjust it if it's needed.
