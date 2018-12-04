@@ -1,0 +1,16 @@
+Q: How can you use the staging area to make sure you have one commit per logical change?
+
+A: I can stage after i made a logical change and then compare stagging area with the recent commit to make sure that the change is one logical change.
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A: When i'm thinking on parallel version of my app, for example in different language or some other major change in it.
+Branches will help to keep two separate version with shared history.
+
+Q: How do the diagrams help you visualize the branch structure?
+
+A: Diagram shows, how structure of a repositor is build. Shows richability of the branches and commits.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A: If there's no conflicts and meging can be automitize, it's better to use it, because merging will be made in systematize manner all of the time. Manual merging on the other hand gives more control on how to merge and resolve conflicts, but it's more time consuming for sure.
