@@ -13,3 +13,7 @@ A: I will use fork when i want to clone repository from one user and use it as a
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 
 A: We can know the state of our project all the time, so we can update accordingly.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A: I'll probably create shared repository and communicate through some messaging system. Git would be easier. because it's advance tool specially dedicated for this purposes. Learning Git and learning new work system would be a harder, but it's worth it.
