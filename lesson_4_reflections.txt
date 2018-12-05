@@ -5,3 +5,11 @@ A: When i would like to share my work with somebody or with myself using differe
 Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 A: I would like to share publicly only working versions not all versions i'm working on. As well i would like to work on my project indendently from my collabaratives.
+
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A: I will use fork when i want to clone repository from one user and use it as another user. I will use clone when i would like to work on a repository on my local computer. Branches i will use to work separetly on version that is not in my master branch.
+
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A: We can know the state of our project all the time, so we can update accordingly.
