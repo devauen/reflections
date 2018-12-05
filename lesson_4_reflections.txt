@@ -17,3 +17,9 @@ A: We can know the state of our project all the time, so we can update according
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 A: I'll probably create shared repository and communicate through some messaging system. Git would be easier. because it's advance tool specially dedicated for this purposes. Learning Git and learning new work system would be a harder, but it's worth it.
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A: When i collaborate with other people and we need to consult the changes of our project. We can do changes in the separate branch, living the master branch unchanged and with working project.
+
+Working only in the master branch is maybe easier in a mayopic view, because we need to do less worki with git, but it's limitting our full projecting and collaborating options.
